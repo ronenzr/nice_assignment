@@ -1,0 +1,7 @@
+server:
+  servlet:
+    context-path: /
+
+
+servers:
+  server2: "http://localhost:8081"
